@@ -2,7 +2,7 @@ pipeline {
     agent { 
     		node 
     			{
-				label 'Agent02'
+				label 'static-agent'
 			}
 	}
 
